@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Java Full Stack Developer &nbsp;·&nbsp; AI Integration &nbsp;·&nbsp; MCA Final-Year Student
+  Java Full Stack Developer &nbsp;·&nbsp; AI Integration &nbsp;·&nbsp; MCA Graduate
 </h3>
 
 <p align="center">
@@ -61,7 +61,7 @@ public class AashishKumar extends Developer {
 }
 ```
 
-I'm a **final-year MCA student** passionate about building real-world software. My flagship project **SmartHire** is a complete AI-powered recruitment portal — Spring Boot backend with 20+ REST APIs, React.js frontend, MySQL database, OpenAI GPT integration for ATS scoring, JWT authentication, and BCrypt security. I believe in learning by building, not just reading.
+I'm a **MCA graduate** passionate about building real-world software. My flagship project **SmartHire** is a complete AI-powered recruitment portal — Spring Boot backend with 20+ REST APIs, React.js frontend, MySQL database, OpenAI GPT integration for ATS scoring, JWT authentication, and BCrypt security. I believe in learning by building, not just reading.
 
 ---
 
