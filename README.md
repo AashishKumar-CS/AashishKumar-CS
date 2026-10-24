@@ -43,7 +43,7 @@
 ```java
 public class AashishKumar extends Developer {
 
-    String degree    = "MCA Final Year — Makhanlal Chaturvedi National University, Bhopal";
+    String degree    = "MCA Graduate — Makhanlal Chaturvedi National University, Bhopal";
     String location  = "Delhi, India";
     String email     = "ashtech1506@gmail.com";
 
